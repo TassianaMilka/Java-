@@ -5,7 +5,7 @@ public class Main  // PrimeiroPrograma
   	System.out.println("----------------------------");	
 	System.out.println("       Hello Word"+"\n"); 	
 	System.out.println("       Hello Word"+"\n");
-	System.out.println("       Hello Word");
+	System.out.println("       Hello Word"+"\n");
         System.out.println("----------------------------");	
 	
 	}	//Bloco de Saida.
