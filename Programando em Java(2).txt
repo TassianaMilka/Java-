@@ -3,9 +3,9 @@ package contaSoma;
 
 import java.util.Scanner;
 
-public class  SoMu{ //Nome da  Classe 
+public class  SoMu{ //Nome da  Classe e entrada de bloco
 
-public static void(String[] args){
+public static void(String[] args){//Entrada de bloco
 
 //Faça um programa que contém o número que soma o 3+5, depois fazer uma multiplicação do 
 //resultado da conta com outro número digitado e no final aparecer uma mensagem descrita 
@@ -48,7 +48,7 @@ System.out.println("O resultado final da multiplicacao"+"\n"+multi);
 System.out.println("**********************************************************************"+"\n");
 
 
-     }
+     }//Saida de bloco.
 
   
-}
+}//Saida de bloco.
