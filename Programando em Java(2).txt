@@ -1,4 +1,11 @@
 
+/Faça um programa que contém o número que soma o 3+5, depois fazer uma multiplicação do 
+//resultado da conta com outro número digitado e no final aparecer uma mensagem descrita 
+//desda maneira o resultado final da soma e também da multiplicação.
+
+
+
+
 package contaSoma;
 
 import java.util.Scanner;
@@ -7,9 +14,6 @@ public class  SoMu{ //Nome da  Classe e entrada de bloco
 
 public static void(String[] args){//Entrada de bloco
 
-//Faça um programa que contém o número que soma o 3+5, depois fazer uma multiplicação do 
-//resultado da conta com outro número digitado e no final aparecer uma mensagem descrita 
-//desda maneira o resultado final da soma e também da multiplicação.
 
 
 Scanner ler= new Scanner(System.in);//Comando utilizado para fazer a leitura dos dados digitados na leitura.
