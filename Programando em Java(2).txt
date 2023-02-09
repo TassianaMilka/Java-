@@ -35,8 +35,8 @@ numeroS=ler.nextInt();                                //Saida de dado ou Leitura
 System.out.println("Informe o terceiro numero da multiplicacao");//Entrada de dado ou Leitura de entrada.
 numeroT=ler.nextInt();                                          //Saida de dado  ou Leitura de saida.
 
-soma=numeroP+numeroS;
-multi=soma*numeroT;
+soma=numeroP+numeroS;//Conta.
+multi=soma*numeroT; //Conta.
 
 //Imprimir os resultados finais.
 System.out.println("*****************************************************************"+"\n");
