@@ -45,7 +45,7 @@ System.out.println("************************************************************
 System.out.println("                    Matematica Realizada da Soma          ");
 System.out.println("O resultado final da soma"+"\n"+soma);
 System.out.println("******************************************************************"+"\n");
-System.out.println("               Matematica Realizaada da Multiplicacao     ");
+System.out.println("               Matematica Realizada da Multiplicacao     ");
 System.out.println("O resultado final da multiplicacao"+"\n"+multi);
 System.out.println("**********************************************************************"+"\n");
 
