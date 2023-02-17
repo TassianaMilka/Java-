@@ -16,9 +16,9 @@ public class Hello {//PrimeiroPrograma  e  //Bloco de Entrada
 	System.out.println("       Hello Word"+"\n");
         System.out.println("----------------------------");	
 	
-	}	//Bloco de Saida.
+	}	//Bloco de Saída.
 	
-} // Bloco de Saida.
+} // Bloco de Saída.
 
 
     
