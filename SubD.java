@@ -3,54 +3,49 @@
 
 package subd;
 
+
+//Crie um programa com os mesmo número do exercício anterior,porém agora vai ser 53-3 e divide por um 
+//número digitado que possa aparecer as mensagens dos resultados.
+
 import java.util.Scanner;
 
-public class SubD{  //Nome da Classe e entrada do bloco.
-	public static void main(String[] args) {
-	
-	Scanner ler= new Scanner(System.in);//Comando utilizado para fazer a leitura dos dados digitados na leitura.
-	
-       //Declaração das Variáveis.
-		
-	int numeroD;	
-	int Sub=0;//Zero para não ocorrer erro.
-	int Divi=0;//Zero para não ocorrer erro.
-	
-	Sub=53-3;//Conta.
-		
-	System.out.println("Informe o numero para divisao"+"\n");// Entrada de dado ou Entrada de leitura.
-	numeroD=ler.nextInt();                                   //Saída de dado ou Saída de leitura.
-	
-	
-	Divi=Sub/numeroD;//Conta.
-	
-        //Imprimir os Resultados Finais.
-	System.out.println("       A Matematica Realizada  de Subtracao      ");
-	System.out.println("********************************************"+"\n");
-	System.out.println("O resultado da Subtracao"+"\n"+Sub);
-	System.out.println("*********************************************"+"\n"+"\n");
-	
-	System.out.println("       A Matematica Realizada de Divisao           ");
-	System.out.println("**********************************************"+"\n");
-	System.out.println("O resultado da Divisao"+"\n"+Divi);
-	System.out.println("**********************************************"+"\n"+"\n");
-	
-	
-	
-	
-	}//Saída do bloco.
+public class SubD {//Nome da classe e entrada de bloco.
 
-}//Saída do bloco.
-
-
-
-
-
-
-
-
+   
+    public static void main(String[] args) {
         
-       
+        
+     Scanner ler= new Scanner(System.in);//Comando utilizado para fazer a leitura dos dados digitados na leitura.
+     
+     
+     //Declaração das variaveis
+     int numeroD;
+     int Sub=0;//Zero para não ocorrer erro.
+     int Div=0;//Zero para não ocorrer erro.
+     
+        Sub=53-3;//Conta.
+     
+        System.out.println("Informe o numero da divisao");//Entrada de Leitura ou leitura de entrada.
+        numeroD=ler.nextInt();                           //Entrada de Saída ou Leitura de saída.
+        
+        
+        Div=Sub/numeroD;//Conta.
+        
+        //Imprimir os resultados finais.
+        
+         System.out.println("A Matematica Realizada da Subtracao");
+         System.out.println("O resultado da Subtracao"+"\n"+Sub);
+         System.out.println("\n");
+         System.out.println("A Matematica Realizada da Divisao");
+         System.out.println("O resultado da Divisao"+"\n"+Div);
+         
+         
+         
+        
+    }//Saída de bloco.
     
+}//Saída de bloco.
+
+
     
 
