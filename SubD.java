@@ -10,15 +10,18 @@ public class SubD{  //Nome da Classe e entrada do bloco.
 	
 	Scanner ler= new Scanner(System.in);//Comando utilizado para fazer a leitura dos dados digitados na leitura.
 	
-       //Declaração das Variaveis
+       //Declaração das Variáveis.
+		
+	int numeroD;	
 	int Sub=0;//Zero para não ocorrer erro.
 	int Divi=0;//Zero para não ocorrer erro.
-	int numeroD;
 	
+	Sub=53-3;//Conta.
+		
 	System.out.println("Informe o numero para divisao"+"\n");// Entrada de dado ou Entrada de leitura.
 	numeroD=ler.nextInt();                                   //Saída de dado ou Saída de leitura.
 	
-	Sub=53-3;//Conta.
+	
 	Divi=Sub/numeroD;//Conta.
 	
         //Imprimir os Resultados Finais.
