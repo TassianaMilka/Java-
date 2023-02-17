@@ -30,7 +30,7 @@ public class SubD {//Nome da classe e entrada de bloco.
         
         Div=Sub/numeroD;//Conta.
         
-        //Imprimir os resultados finais.
+        //Imprimir os Resultados Finais.
         
          System.out.println("A Matematica Realizada da Subtracao");
          System.out.println("O resultado da Subtracao"+"\n"+Sub);
