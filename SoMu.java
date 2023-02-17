@@ -18,7 +18,7 @@ Scanner ler= new Scanner(System.in);//Comando utilizado para fazer a leitura dos
 
 
 
-//Declaração das variaveis.
+//Declaração das variáveis.
 
 int numeroP; 
 int numeroS;
