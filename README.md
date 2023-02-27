@@ -21,8 +21,10 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
 6.Calcular(soma,subtração,multiplicação,divisão,resto).
 
-7.
+7.Métodos e funções de orientação a objeto.
 
+
+#   
 
 
 
