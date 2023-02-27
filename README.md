@@ -45,7 +45,7 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
 7.Object-oriented methods and functions.
 
-#Resumen en Español.
+# Resumen en Español.
 
 Hola a todos, cada código publicado será comentado para facilitar la comprensión más allá de youtube, así la numeración del video estará identificada en el propio video, este es un proyecto en curso, por el momento no tendría nada que ver con lo que comencé describir un método get and set orientado a objetos, algo muy importante cuando nos referimos al lenguaje de programación Java.
 
