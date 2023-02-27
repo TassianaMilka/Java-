@@ -24,7 +24,30 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 7.Métodos e funções de orientação a objeto.
 
 
-#   
+ # Summary in English
+ 
+ Hello everyone, each code posted will be commented to facilitate understanding beyond youtube. Thus, the numbering of the video will be identified in the video itself. This is an ongoing project. For the moment, I would have nothing to do with what I started to describe about an object-oriented get and set method, something very important when we refer to the Java Programming Language.
+
+
+# Main items that have already been addressed and that will still be carried out in the Channel.
+
+1.How to open an IDE to make a code.
+
+2.Class name.
+
+3.Block In and Block Out.
+
+4. Variables declaration (Int, double, char, string, boolean).
+
+5. Data Input and Data Output.
+
+6.Calculate(add, subtract, multiply, divide, remainder).
+
+7.Object-oriented methods and functions.
+
+
+
+
 
 
 
