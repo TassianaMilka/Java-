@@ -10,9 +10,13 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 # Principais itens que já foram abordado e que ainda serão realizados no Canal.
 
 1.Como abrir uma IDE para realizar um código.
+
 2.Nome da classe.
+
 3.Declaração das Variaveis(Int,double,char,string,boleano).
+
 4.Entrada de ddado e Saída de dado.
+
 5.Calcular(soma,subtração,multiplicação,divisão,  ).
 
 
