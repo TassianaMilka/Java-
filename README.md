@@ -52,15 +52,15 @@ Hola a todos, cada código publicado será comentado para facilitar la comprensi
 Principales puntos que ya se han abordado y que aún se llevarán a cabo en el Canal.
 1.Cómo abrir un IDE para hacer un código.
 
-2. Nombre de la clase.
+2.Nombre de la clase.
 
 3.Bloquear y bloquear.
 
-4. Declaración de variables (Int, double, char, string, boolean).
+4.Declaración de variables (Int, double, char, string, boolean).
 
-5. Entrada de datos y salida de datos.
+5.Entrada de datos y salida de datos.
 
-6. Calcular (sumar, restar, multiplicar, dividir, resto).
+6.Calcular (sumar, restar, multiplicar, dividir, resto).
 
 7.Métodos y funciones orientados a objetos.
 
