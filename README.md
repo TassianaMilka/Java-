@@ -9,17 +9,17 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
 # Principais itens que já foram abordado e que ainda serão realizados no Canal.
 
-1.Como abrir uma IDE para realizar um código.
+1.Como abrir uma IDE para realizar um código;
 
-2.Nome da classe.
+2.Nome da classe;
 
-3.Entrada de bloco e Saída de bloco.
+3.Entrada de bloco e Saída de bloco;
 
-4.Declaração das Variaveis(Int,double,char,string,boleano).
+4.Declaração das Variaveis(Int,double,char,string,boleano);
 
-5.Entrada de ddado e Saída de dado.
+5.Entrada de ddado e Saída de dado;
 
-6.Calcular(soma,subtração,multiplicação,divisão,resto).
+6.Calcular(soma,subtração,multiplicação,divisão,resto);
 
 7.Métodos e funções de orientação a objeto.
 
@@ -32,17 +32,17 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
 # Main items that have already been addressed and that will still be carried out in the Channel.
 
-1.How to open an IDE to make a code.
+1.How to open an IDE to make a code;
 
-2.Class name.
+2.Class name;
 
-3.Block In and Block Out.
+3.Block In and Block Out;
 
-4.Variables declaration (Int, double, char, string, boolean).
+4.Variables declaration (Int, double, char, string, boolean);
 
-5.Data Input and Data Output.
+5.Data Input and Data Output;
 
-6.Calculate(add, subtract, multiply, divide, remainder).
+6.Calculate(add, subtract, multiply, divide, remainder);
 
 7.Object-oriented methods and functions.
 
@@ -57,13 +57,13 @@ Principales puntos que ya se han abordado y que aún se llevarán a cabo en el C
 
 2.Nombre de la clase.
 
-3.Bloquear y bloquear.
+3.Bloquear y bloquear;
 
-4.Declaración de variables (Int, double, char, string, boolean).
+4.Declaración de variables (Int, double, char, string, boolean);
 
-5.Entrada de datos y salida de datos.
+5.Entrada de datos y salida de datos;
 
-6.Calcular (sumar, restar, multiplicar, dividir, resto).
+6.Calcular (sumar, restar, multiplicar, dividir, resto);
 
 7.Métodos y funciones orientados a objetos.
 
