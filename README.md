@@ -37,9 +37,9 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
 3.Block In and Block Out.
 
-4. Variables declaration (Int, double, char, string, boolean).
+4.Variables declaration (Int, double, char, string, boolean).
 
-5. Data Input and Data Output.
+5.Data Input and Data Output.
 
 6.Calculate(add, subtract, multiply, divide, remainder).
 
