@@ -13,12 +13,15 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
 2.Nome da classe.
 
-3.Declaração das Variaveis(Int,double,char,string,boleano).
+3.Entrada de bloco e Saída de bloco.
 
-4.Entrada de ddado e Saída de dado.
+4.Declaração das Variaveis(Int,double,char,string,boleano).
 
-5.Calcular(soma,subtração,multiplicação,divisão,  ).
+5.Entrada de ddado e Saída de dado.
 
+6.Calcular(soma,subtração,multiplicação,divisão,resto).
+
+7.
 
 
 
