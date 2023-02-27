@@ -23,6 +23,7 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
 7.Métodos e funções de orientação a objeto.
 
+# --------------------------------------------------------------------------------------------------------------------------------
 
  # Summary in English.
  
@@ -44,6 +45,8 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 6.Calculate(add, subtract, multiply, divide, remainder).
 
 7.Object-oriented methods and functions.
+
+# --------------------------------------------------------------------------------------------------------------------------------
 
 # Resumen en Español.
 
