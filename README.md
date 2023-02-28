@@ -67,6 +67,7 @@ Principales puntos que ya se han abordado y que aún se llevarán a cabo en el C
 
 7.Métodos y funciones orientados a objetos.
 
+# --------------------------------------------------------------------------------------------------------------------------------
 
 Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
 
