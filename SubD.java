@@ -2,7 +2,7 @@
 
 package subd;
 
- //Programando em Java(1) or Programming in Java(3).
+ //Programando em Java(3) or Programming in Java(3).
 //Crie um programa com os mesmo número do exercício anterior,porém agora vai ser 53-3 e divide por um 
 //número digitado que possa aparecer as mensagens dos resultados.
 
