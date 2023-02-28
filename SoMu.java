@@ -1,7 +1,7 @@
 
 package somu;
 
- //Programando em Java(1) or Programming in Java(2).
+ //Programando em Java(2) or Programming in Java(2).
 //Faça um programa que contém o número que soma o 3+5, depois fazer uma multiplicação do 
 //resultado da conta com outro número digitado e no final aparecer uma mensagem descrita 
 //desda maneira o resultado final da soma e também da multiplicação.
