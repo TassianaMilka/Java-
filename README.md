@@ -30,7 +30,7 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
  Hello everyone, each code posted will be commented to facilitate understanding beyond youtube. Thus, the numbering of the video will be identified in the video itself. This is an ongoing project. For the moment, I would have nothing to do with what I started to describe about an object-oriented get and set method, something very important when we refer to the Java Programming Language.
 
 
-# Main items that have already been addressed and that will still be carried out in the Channel.
+# Main items that have already been addressed and that will still be carried out in the Channel
 
 1.How to open an IDE to make a code;
 
@@ -52,7 +52,8 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
 Hola a todos, cada código publicado será comentado para facilitar la comprensión más allá de youtube, así la numeración del video estará identificada en el propio video, este es un proyecto en curso, por el momento no tendría nada que ver con lo que comencé describir un método get and set orientado a objetos, algo muy importante cuando nos referimos al lenguaje de programación Java.
 
-Principales puntos que ya se han abordado y que aún se llevarán a cabo en el Canal.
+# Principales puntos que ya se han abordado y que aún se llevarán a cabo en el Canal
+
 1.Cómo abrir un IDE para hacer un código.
 
 2.Nombre de la clase.
