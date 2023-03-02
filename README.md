@@ -4,7 +4,6 @@
 Summary in Portuguese,English and Spanish
 
 
-<img src="/TassianaMilka/Tassiana.github.io/blob/main/Languages-/java.png?raw=true" alt="java.png">
 
 
 # Resumo em Português
