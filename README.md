@@ -1,6 +1,7 @@
 # java_channel
 #All codes Performed in Youtube videos.(Todos os códigos Realizados nos vídeos do Youtube.)🗂️
 
+Summary in Portuguese,English and Spanish
 
 # Resumo em Português
 
