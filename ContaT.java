@@ -33,11 +33,11 @@ public class ContaT{//Nome classe.Entrada de dado.
        double reaisTS;
        double contaT;
        double reaisQP;
-      double reaisQS;
-      double contaQ;
-     double reaisQUP;
-     double reaisQUS;
-     double contaQU=0;
+       double reaisQS;
+       double contaQ;
+       double reaisQUP;
+       double reaisQUS;
+       double contaQU=0;
 
    
        //Primeira Linha.
@@ -50,12 +50,12 @@ public class ContaT{//Nome classe.Entrada de dado.
         reaisS=ler.nextDouble();//Saída de dado ou Leitura de saída.
         
           //Conta para calcular 1.
-        contaP=reaisP+reaisS*2;
+         contaP=reaisP+reaisS*2;
             
 
          //Segunda Linha.
 
-         System.out.println("Informe o reais");//Entrada de dado ou Leitura de entrada.
+        System.out.println("Informe o reais");//Entrada de dado ou Leitura de entrada.
         reaisSP=ler.nextDouble();//Saída de dado ou Leitura de saída.
         
         System.out.println("Informe o reais");//Entrada de dado ou Leitura de entrada.
@@ -91,21 +91,21 @@ public class ContaT{//Nome classe.Entrada de dado.
 
         //Conta para  calcular 4;
      
-        contaQ=reaisQP+reaisQS*2;
+       contaQ=reaisQP+reaisQS*2;
 
        //Quinta Linha.
 
-     System.out.pritln("Informe o reais");
-     reaisQUP=ler.nextDouble();
+      System.out.pritln("Informe o reais");
+      reaisQUP=ler.nextDouble();
 
 
-     System.out.pritln("Informe o reais");
-     reaisQUS=ler.nextDouble();
+      System.out.pritln("Informe o reais");
+      reaisQUS=ler.nextDouble();
     
      
-   //Conta para calcular 5.
+    //Conta para calcular 5.
 
-  contaQU=reiasQUP+reaisQUS*3;
+     contaQU=reiasQUP+reaisQUS*3;
 
 
 
@@ -118,8 +118,8 @@ public class ContaT{//Nome classe.Entrada de dado.
        System.out.println("O resultado final da conta_3 de reais\n"+contaT);  
        System.out.println("\n\n"); 
        System.out.println("O resultado final da conta_4 de reais\n"+contaQ);  
-      System.out.println("\n\n"); 
-     System.out.println("O resultado final da conta_5 de reais\n"+contaQU);
+       System.out.println("\n\n"); 
+       System.out.println("O resultado final da conta_5 de reais\n"+contaQU);
 
  
     }//Saída de dado.
