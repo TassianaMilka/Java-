@@ -1,5 +1,7 @@
 package contat;
 
+//Programando em Java(4) or Programming in Java(4).
+
 //Em uma tabela  tem vários numeros de reais e querem saber o resultado  de um por um segue abaixo soma 
 //entre de cada linha e  divir pelo numero sem ser em reias:
 //382.900+12.940*2;
