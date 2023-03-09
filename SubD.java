@@ -24,9 +24,8 @@ public class SubD {//Nome da classe e entrada de bloco.
      
         Sub=53-3;//Conta.
      
-        System.out.println("Informe o numero da divisao");//Entrada de Leitura ou leitura de entrada.
-        numeroD=ler.nextInt();                           //Entrada de Saída ou Leitura de saída.
-        
+        System.out.println("Informe o numero da divisao");//Entrada de Leitura.
+        numeroD=ler.nextInt();                           //Entrada de Saída.
         
         Div=Sub/numeroD;//Conta.
         
