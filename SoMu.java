@@ -28,15 +28,15 @@ int  soma=0; // Zero para não ocorrer erro.
 int  multi=0;//Zero para não ocorrer erro.
 
 
-System.out.println("Informe o primeiro numero da soma"); //Entrada de dado ou Leitura de entrada.
-numeroP=ler.nextInt();                                   //Saída de dado ou  Leitura de saída.
+System.out.println("Informe o primeiro numero da soma"); //Entrada de dado.
+numeroP=ler.nextInt();                                   //Saída de dado.
 
-System.out.println("Informe o segundo numero da soma");//Entrada de dado ou Leitura de entrada.
-numeroS=ler.nextInt();                                //Saída de dado ou Leitura de saída.
+System.out.println("Informe o segundo numero da soma");//Entrada de dado.
+numeroS=ler.nextInt();                                //Saída de dado.
 
 
-System.out.println("Informe o terceiro numero da multiplicacao");//Entrada de dado ou Leitura de entrada.
-numeroT=ler.nextInt();                                          //Saída de dado  ou Leitura de saída.
+System.out.println("Informe o terceiro numero da multiplicacao");//Entrada de dado.
+numeroT=ler.nextInt();                                          //Saída de dado.
 
 soma=numeroP+numeroS;//Conta.
 multi=soma*numeroT; //Conta.
