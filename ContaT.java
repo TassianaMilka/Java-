@@ -44,12 +44,12 @@ public class ContaT{//Nome classe.Entrada de dado.
    
        //Primeira Linha.
         
-        System.out.println("Informe o reais");//Entrada de dado ou Leitura de entrada.
-        reaisP=ler.nextDouble();//Saída de dado ou Leitura de saída.
+        System.out.println("Informe o reais");//Entrada de dado.
+        reaisP=ler.nextDouble();//Saída de dado.
         
         
-        System.out.println("Informe o reais");//Entrada de dado ou Leitura de entrada.
-        reaisS=ler.nextDouble();//Saída de dado ou Leitura de saída.
+        System.out.println("Informe o reais");//Entrada de dado.
+        reaisS=ler.nextDouble();//Saída de dado.
         
           //Conta para calcular 1.
          contaP=reaisP+reaisS*2;
@@ -57,11 +57,11 @@ public class ContaT{//Nome classe.Entrada de dado.
 
          //Segunda Linha.
 
-        System.out.println("Informe o reais");//Entrada de dado ou Leitura de entrada.
-        reaisSP=ler.nextDouble();//Saída de dado ou Leitura de saída.
+        System.out.println("Informe o reais");//Entrada de dado.
+        reaisSP=ler.nextDouble();//Saída de dado.
         
-        System.out.println("Informe o reais");//Entrada de dado ou Leitura de entrada.
-        reaisSS=ler.nextDouble();//Saída de dado ou Leitura de saída.
+        System.out.println("Informe o reais");//Entrada de dado.
+        reaisSS=ler.nextDouble();//Saída de dado.
 
           //Conta para calcular 2.
               
@@ -69,12 +69,12 @@ public class ContaT{//Nome classe.Entrada de dado.
 
         //Terceira Linha.
 
-        System.out.println("Informe o reais");//Entrada de dado ou Leitura de entrada.
-        reaisTP=ler.nextDouble();//Saída de dado ou Leitura de saída.
+        System.out.println("Informe o reais");//Entrada de dado.
+        reaisTP=ler.nextDouble();//Saída de dado.
 
 
-        System.out.println("Informe o reais");//Entrada de dado ou Leitura de entrada.
-        reaisTS=ler.nextDouble();//Saída de dado ou Leitura de saída.
+        System.out.println("Informe o reais");//Entrada de dado.
+        reaisTS=ler.nextDouble();//Saída de dado.
 
         
       //Conta para calcular  3.
@@ -83,11 +83,11 @@ public class ContaT{//Nome classe.Entrada de dado.
 
       //Quarta  Linha
          
-      System.out.println("Informe o reais ");//Entrada de dado ou Leitura de entrada.
-      reaisQP=ler.nextDouble();//Saída de dado ou Leitura de  saída.
+      System.out.println("Informe o reais ");//Entrada de dado.
+      reaisQP=ler.nextDouble();//Saída de dado.
 
 
-      System.out.println("Informe o reais ");//Entrada de dado ou Leitura de entrada.
+      System.out.println("Informe o reais ");//Entrada de dado.
       reaisQS=ler.nextDouble();Saída de dado ou Leitura de  saída.
 
 
