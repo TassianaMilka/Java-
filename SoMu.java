@@ -21,7 +21,7 @@ Scanner ler= new Scanner(System.in);//Comando utilizado para fazer a leitura dos
 
 //Declaração das variáveis.
 
-int numeroP; 
+int numeroP;   
 int numeroS;
 int numeroT;
 int  soma=0; // Zero para não ocorrer erro.
