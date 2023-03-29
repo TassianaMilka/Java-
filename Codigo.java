@@ -10,7 +10,7 @@ public class Codigo {// Nome da Classe e entrada de bloco.
 /**
  * @param args
  */
-public static void main(String[] args) {//Entrada de dado.
+public static void main(String[] args) {//Entrada de bloco*Corrigindo no vídeo falei outra coisa.
   //Entrada de bloco
   
     
