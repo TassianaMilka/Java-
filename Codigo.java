@@ -10,8 +10,8 @@ public class Codigo {// Nome da Classe e entrada de bloco.
 /**
  * @param args
  */
-public static void main(String[] args) {//Entrada de bloco*Corrigindo no vídeo falei outra coisa.
-  //Entrada de bloco
+public static void main(String[] args) {//Entrada de bloco.
+
   
     
  Scanner ler = new Scanner(System.in);//Comando utilizado para fazer a leitura dos dados digitados na leitura.
