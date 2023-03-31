@@ -113,15 +113,15 @@ public class ContaT{//Nome classe.Entrada de dado.
 
         //Imprimir os Resultados. 
         
-       System.out.println("O resultado final da conta_1 de reais\n"+contaP);
+       System.out.println("O resultado final da conta_1 de reais"+"\n"+contaP);
        System.out.println("\n\n");
-       System.out.println("O resultado final da conta_2 de reais\n"+contaS);  
+       System.out.println("O resultado final da conta_2 de reais"+"\n"+contaS);  
        System.out.println("\n\n"); 
-       System.out.println("O resultado final da conta_3 de reais\n"+contaT);  
+       System.out.println("O resultado final da conta_3 de reais"+"\n"+contaT);  
        System.out.println("\n\n"); 
-       System.out.println("O resultado final da conta_4 de reais\n"+contaQ);  
+       System.out.println("O resultado final da conta_4 de reais"+"\n"+contaQ);  
        System.out.println("\n\n"); 
-       System.out.println("O resultado final da conta_5 de reais\n"+contaQU);
+       System.out.println("O resultado final da conta_5 de reais"+"\n"+contaQU);
 
  
     }//Saída de dado.
