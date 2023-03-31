@@ -24,18 +24,18 @@ public static void main(String[] args) {//Entrada de bloco(Corrigindo o que fale
     int numeros2;
 
     
-    System.out.println("Informa o código\n");//Entrada de dado.
+    System.out.println("Informa o código"+"\n");//Entrada de dado.
     numeros1=ler.nextInt();//Saída de dado.
      
       //Validação do que foi informado se o código1 está armazenado.
       if(numeros1==39060){
 
-       System.out.println("O código armazenado\n");
+       System.out.println("O código armazenado"+"\n");
 
 
       }else{
 
-          System.out.println("O código não armazenado\n");
+          System.out.println("O código não armazenado"+"\n");
 
       }
 
