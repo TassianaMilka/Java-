@@ -16,7 +16,7 @@ public class N1NUM {//Nome da Classe e entrada de bloco.
      */
     public static void main(String[]args){//Entrada de bloco.
     
-        Scanner ler= new Scanner(System.in);
+        Scanner ler= new Scanner(System.in);//Comando utilizado para fazer a leitura dos dados digitados na leitura.
     
     //Declaração das variáveis.
    
