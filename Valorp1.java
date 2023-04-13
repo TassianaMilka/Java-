@@ -24,7 +24,7 @@ public static void main(String[] args) {//Entrada de bloco.
     double valor;
     double cal=0;
 
-
+ 
 
     System.out.println("Informe o valor de 10 até 40 reais");//Entrada de dado.
     valor=ler.nextDouble();//Saída de dado.
