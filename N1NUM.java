@@ -28,7 +28,7 @@ public class N1NUM {//Nome da Classe e entrada de bloco.
      n1=ler.nextInt();                       //Saída de dado.
 
 
-     //Validação do  n1 menor que 9 e(&&) n1 difrente(negação) igual a 5.
+     //Validação do  n1 menor que 9 e(&&) n1 diferente(negação) igual a 5.
 
      if(( n1<9 && n1!=5)){
         //Imprimir a mensagem já armazenado.
