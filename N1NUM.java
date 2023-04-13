@@ -40,7 +40,7 @@ public class N1NUM {//Nome da Classe e entrada de bloco.
      //Realização do cálculo.
      cal=n1+20;
 
-     //Imprimir o reasultado so cálculo da soma .
+     //Imprimir o resultado do cálculo da soma.
      System.out.println("O cálculo da finalizado----------"+cal);
      System.out.println ("\n");
      //Imprimir a mensagem final.
