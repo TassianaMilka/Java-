@@ -50,32 +50,3 @@ public class N1NUM {//Nome da Classe e entrada de bloco.
 
      }//Bloco de saída.
 }//Bloco de saída.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-     
-       
-    
-
-    
-
-
-    
-    
-
-
-
