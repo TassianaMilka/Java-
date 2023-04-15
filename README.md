@@ -74,7 +74,7 @@ Hola a todos, cada código publicado será comentado para facilitar la comprensi
 
 # --------------------------------------------------------------------------------------------------------------------------------
 
-Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
+(Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
 
 
 
