@@ -1,5 +1,6 @@
 package CapitalAP;
 
+//Programando em Java(9) or Programming in Java(9).
 //Querem realizar uma conta que informa dois capital  ativo saber o maior valor entre esses e 
 //mais dois do outro capital passivo o menor valor,depois  o ativo  e passivo para  realizar uma 
 //soma e sendo assim uma multiplicação 0.7 de juro.No final aparecer uma mensagem dos resultados. 
