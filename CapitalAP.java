@@ -5,7 +5,7 @@ package CapitalAP;
 //mais dois do outro capital passivo o menor valor,depois  o ativo  e passivo para  realizar uma 
 //soma e sendo assim uma multiplicação 0.7 de juro.No final aparecer uma mensagem dos resultados. 
 
-import java.util.Scanner;
+import java.util.Scanner;   
 
 
 public class CapitalAP{//Nome da classe e entrada de bloco.
