@@ -54,7 +54,7 @@ Hello everyone, each code posted will be commented to facilitate understanding b
 
 # Resumen en Español
 
-Hola a todos, cada código publicado será comentado para facilitar la comprensión más allá de youtube, así la numeración del video estará identificada en el propio video, este es un proyecto en curso, por el momento no tendría nada que ver con lo que comencé describir un método get and set orientado a objetos, algo muy importante cuando nos referimos al lenguaje de programación Java.
+Hola a todos, cada código publicado se comentará para facilitar la comprensión antes de que se publique un video en YouTube, pero creo que es mejor no hacer más en el otro lado o el proyecto seguirá aquí en Github. Por lo tanto, tendrá la identificación no adecuada para el número de ese video. Este es un proyecto en curso será más claro para evitar generar confusión en la interpretación No pude hacer nada en el momento en que comencé a descubrir acerca de un método get and set orientado a objetos, algo muy importante cuando nos referimos al lenguaje de programación Java.
 
 # Principales puntos que ya se han abordado y que aún se llevarán a cabo en el Canal
 
