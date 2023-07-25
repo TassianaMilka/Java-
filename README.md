@@ -8,7 +8,7 @@ Summary in Portuguese,English and Spanish
 
 # Resumo em Português
 
-Olá a todos cada código postado vai estar comentanto para facilitar o entendimento além do youtube.Assim terá a identificação no próprio a numeração de que vídeo.Esse é um projeto em andamento terá mais ainda em ordem de claro para não gerar confusão de interpretação,pois ficaria nada haver de momento com o começou descrever sobre um metódo get e set de orientação a objeto algo muito importânte quando referimos a Linguagem de Programação Java. 
+Olá a todos cada código postado vai estar comentanto para facilitar o entendimento antes era publicado vídeo no youtube,mas cosiderei melhor de não realizar mais pelo outro lado o projeto ainda continua aqui no Github.Assim terá a identificação no próprio a numeração de que vídeo.Esse é um projeto em andamento terá mais ainda em ordem de claro para não gerar confusão de interpretação,pois ficaria nada haver de momento com o começou descrever sobre um metódo get e set de orientação a objeto algo muito importânte quando referimos a Linguagem de Programação Java. 
 
 
 # Principais itens que já foram abordado e que ainda serão realizados no Canal
@@ -31,7 +31,7 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
  # Summary in English
  
- Hello everyone, each code posted will be commented to facilitate understanding beyond youtube. Thus, the numbering of the video will be identified in the video itself. This is an ongoing project. For the moment, I would have nothing to do with what I started to describe about an object-oriented get and set method, something very important when we refer to the Java Programming Language.
+Hello everyone, each code posted will be commented to facilitate understanding before the video was published on YouTube, but I thought it better not to do it on the other side, the project is still here on Github.This is an ongoing project. For the moment, I would have nothing to do with what I started to describe about an object-oriented get and set method, something very important when we refer to the Java Programming Language.
 
 
 # Main items that have already been addressed and that will still be carried out in the Channel
