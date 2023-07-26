@@ -1,10 +1,11 @@
 package Orçamentopreço;
 
- 
+ //Programando em Java(13) or Programming in Java(13).
+
 
 //Em uma loja um determinado cliente quer fazer orçamento de valor de dois produtos nesse caso a necessidade de realizar uma forma que possa saber o valor do primeiro produto equivalente de  670,00 reais 
- //como uma entrada de dado,utilizar o laço de repetição de n e se caso acontece de saber só de um valor no último momento ou saber do outro  de 820,00 reais também a um laço de repetição de i até 1 fazendo 
- //uma soma para saber o total nessa sequência conter validação sejá menor que 1256,maior 1789 ou igual a 1490 e no final uma mensagem para classificar dessa maneira "Finalizado orçamento deixamos o nosso agradecimento". 
+//como uma entrada de dado,utilizar o laço de repetição de n e se caso acontece de saber só de um valor no último momento ou saber do outro  de 820,00 reais também a um laço de repetição de i até 1 fazendo 
+//uma soma para saber o total nessa sequência conter validação sejá menor que 1256,maior 1789 ou igual a 1490 e no final uma mensagem para classificar dessa maneira "Finalizado orçamento deixamos o nosso agradecimento". 
 
 
 import java.util.Scanner;
