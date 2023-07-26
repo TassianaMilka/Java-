@@ -1,5 +1,6 @@
  package tabelaperiodica;
 
+//Programando em Java(12) or Programming in Java(12).
 
 //Uma aluna que necessita realizar código utilizando alguns itens da Química sobre a Tabela Períodica que vai precisar 
 //utilizar o for de i até 1 e não esqucendo da validação de dado deixando para o usuário a finalidade de escolher se deseja 
