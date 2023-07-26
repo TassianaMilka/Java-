@@ -1,5 +1,6 @@
 package forsoma1;
 
+//Programando em Java(11) or Programming in Java(11).
 
  //Realizar  dois laços de repetição de 1 até 3 cada um necessita que faz soma  dentro de cada um,
  //depois fazer validação se a soma_1 é menor que a soma _2 depois se a soma_2 é menor que a soma_1 e 
