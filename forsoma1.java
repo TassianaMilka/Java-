@@ -2,7 +2,7 @@ package forsoma1;
 
 //Programando em Java(11) or Programming in Java(11).
 
- //Realizar  dois laços de repetição de 1 até 3 cada um necessita que faz soma  dentro de cada um,
+ //Realizar  dois laços de repetição de 1 até 2 cada um necessita que faz soma  dentro de cada um,
  //depois fazer validação se a soma_1 é menor que a soma _2 depois se a soma_2 é menor que a soma_1 e 
  //para finalizar se o resultados forma iguais não esqucendo de mensagem para classificar conforme o resultado.  
 
@@ -28,8 +28,8 @@ int i;
 
 
 
-//Laço de repetição de i até 3 conforme os números informados a seguir.
-for(i=0;i<3;i++){
+//Laço de repetição de i até 2 conforme os números informados a seguir.
+for(i=0;i<2;i++){
 System.out.println("Informe o número"+"\n");//Entrada de dado.
 n1=ler.nextInt();//Saída de dado.
 
@@ -43,8 +43,8 @@ soma_1=n1+n1;
 
 System.out.println("\n\n");
 
-//Laço de repetição de i até 3 conforme os números informados a seguir. 
-for(i=0;i<3;i++){
+//Laço de repetição de i até 2 conforme os números informados a seguir. 
+for(i=0;i<2;i++){
 
 System.out.println("Informe o número");//Entrada de dado.
 n2=ler.nextInt();//Saída de dado.
