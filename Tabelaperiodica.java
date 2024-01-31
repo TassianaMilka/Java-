@@ -2,7 +2,7 @@
 
 //Programando em Java(12) or Programming in Java(12).
 
-//Uma aluna que necessita realizar código utilizando alguns itens da Química sobre a Tabela Períodica que vai precisar 
+//Uma aluna necessita realizar código utilizando alguns itens da Química sobre a Tabela Períodica que vai precisar 
 //utilizar o for de i até 1 e não esqucendo da validação de dado deixando para o usuário a finalidade de escolher se deseja 
 //saber ou não dividindo em grupo de A até I entre também deixar na escolha com a principal função de esclarecer as informações que a 
 // seguir será descrevida que é:
