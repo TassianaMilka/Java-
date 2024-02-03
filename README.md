@@ -8,7 +8,7 @@ Summary in Portuguese,English and Spanish
 
 # Resumo em Português
 
-Olá a todos cada código postado vai estar comentanto para facilitar o entendimento antes era publicado vídeo no youtube,mas cosiderei melhor de não realizar mais pelo outro lado o projeto ainda continua aqui no Github.Assim terá a identificação no próprio a numeração de que vídeo.Esse é um projeto em andamento terá mais ainda em ordem de claro para não gerar confusão de interpretação,pois ficaria nada haver de momento com o começou descrever sobre um metódo get e set de orientação a objeto algo muito importânte quando referimos a Linguagem de Programação Java. 
+Olá a todos cada código postado vai estar comentanto para facilitar o entendimento antes era publicado vídeo no youtube,mas cosiderei melhor de não realizar mais pelo outro lado o projeto ainda continua aqui no Github.Assim terá a identificação no próprio a numeração de que vídeo.Esse é um projeto em andamento terá mais ainda em ordem claro para não gerar confusão de interpretação,pois ficaria nada haver de momento com o começo descrever sobre um metódo get e set de orientação a objeto algo muito importânte quando referimos a Linguagem de Programação Java. 
 
 
 # Principais itens que já foram abordado e que ainda serão realizados no Canal
