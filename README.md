@@ -21,7 +21,7 @@ Olá a todos cada código postado vai estar comentanto para facilitar o entendim
 
 4.Declaração das Variaveis(Int,double,char,string,boleano);
 
-5.Entrada de ddado e Saída de dado;
+5.Entrada de dado e Saída de dado;
 
 6.Calcular(soma,subtração,multiplicação,divisão,resto);
 
